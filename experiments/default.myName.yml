@@ -7,4 +7,6 @@ availableValues:
   - Summer
   - Ryan
   - Michelle
+conditions:
+  - value: []
 value: []
